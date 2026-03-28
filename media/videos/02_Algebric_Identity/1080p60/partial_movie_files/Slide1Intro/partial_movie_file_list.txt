@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/godex305/manimations/Example slides/02_Algebric_Expressions/media/videos/02_Algebric_Identity/1080p60/partial_movie_files/Slide1Intro/3581103318_2711891686_223132457.mp4'
+file 'file:/Users/godex305/manimations/Example slides/02_Algebric_Expressions/media/videos/02_Algebric_Identity/1080p60/partial_movie_files/Slide1Intro/2482139977_2872842549_4266990378.mp4'
+file 'file:/Users/godex305/manimations/Example slides/02_Algebric_Expressions/media/videos/02_Algebric_Identity/1080p60/partial_movie_files/Slide1Intro/2482139977_3147619854_4229351745.mp4'
